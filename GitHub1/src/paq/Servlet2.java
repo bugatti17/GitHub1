@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet("/Servlet2")
 public class Servlet2 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-       
+       //CAMBIO EN ECLIPSE
     /**
      * @see HttpServlet#HttpServlet()
      */
