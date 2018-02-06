@@ -23,6 +23,7 @@ public class Servlet2 extends HttpServlet {
         //Cambio Servlet2
     }
 
+    
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
